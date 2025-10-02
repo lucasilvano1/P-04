@@ -46,11 +46,7 @@ export const Hero = () => {
             <div className="space-y-2 text-right">
               <p className="text-sm text-purple-300 font-medium">Big thanks to everyone who liked or followed</p>
               <div className="flex justify-end items-center gap-1 text-sm text-muted-foreground">
-                <span>
-              </span>
                 <span>Truly grateful.</span>
-                <span>
-              </span>
               </div>
             </div>
           </div>
